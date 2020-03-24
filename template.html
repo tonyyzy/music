@@ -49,7 +49,7 @@
             <tr>
                 {% for artist in artists5 %}
                 <td class="td"><a href="{{ artist.external_urls.spotify }}" target="_blank"><img
-                            src={{ artist.images.1.url }} alt={{ artist.name }} style="width:160px;height:160px;"></a>
+                            src={{ artist.images.1.url }} alt={{ artist.name }} style="width:160px;"></a>
                 </td>
                 {% endfor %}
             </tr>
@@ -69,7 +69,7 @@
                 {% for album in albums5 %}
                 <td class="td"><a href="{{ album.external_urls.spotify }}" target="_blank"><img
                             src={{ album.album.images.1.url }} alt={{ album.name }}
-                            style="width:160px;height:160px;"></a></td>
+                            style="width:160px;"></a></td>
                 {% endfor %}
             </tr>
             {% endfor %}
