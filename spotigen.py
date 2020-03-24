@@ -3,7 +3,12 @@ from jinja2 import Template
 import spotipy
 
 if __name__ == "__main__":
-    token = sys.argv[1]
+    clientid, secret, refresh = sys.argv[1:4]
+    sa = spotipy.oauth2.SpotifyOAuth(
+        client_id=clientid,
+        client_secret=secret,
+        redirect_uri="http://example.com/callback/")
+    token = sa.refresh_access_token(refresh)["access_token"]
     sp = spotipy.Spotify(auth=token)
     artists = sp.current_user_top_artists(time_range="short_term", limit=10)["items"]
     artists = [artists[:5], artists[5:]]
