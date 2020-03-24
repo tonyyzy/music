@@ -39,5 +39,4 @@ jobs:
         git config --global user.email "tony@tony.tc"
         git config --global user.name "Tony Yang"
         git add index.html
-        git commit -m "Update index.html"
-        git push --set-upstream origin master
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update index.html" && git push --set-upstream origin master
