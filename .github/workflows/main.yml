@@ -33,7 +33,7 @@ jobs:
     - name: Generate new index.html
       run: |
         cd $GITHUB_WORKSPACE
-        python spotigen.py ${{ secrets.SP_TOKEN }}
+        python spotigen.py ${{ secrets.CLIENT_ID }} ${{ secrets.CLIENT_SECRET }} ${{ secrets.REFRESH_TOKEN }}
     - name: Commit new index.html
       run: |
         git config --global user.email "tony@tony.tc"
