@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fav Tunes</title>
+    <style type="text/css">
+        .h1{
+            text-align: center;
+        }
+        .h2{
+            text-align: center;
+        }
+        .table{
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+        td {
+            padding: 20px;
+            border-right: 1px solid black;
+        }
+        .td {
+            padding: 5px;
+        }
+        tr {
+            border-bottom: 1px solid black;
+        }
+    </style>
+  </head>
+  <body>
+      <h1 class="h1">Tony's Spotify Hotlist</h1>
+      <div class="artists">
+        <h2 class="h2">Top 10 artists</h2>
+        <table class="table">
+            {% for artists5 in artists %}
+                <tr>
+                    {% for artist in artists5 %}
+                    <td>{{ artist.name }}</td>
+                    {% endfor %}
+                </tr>
+                <tr>
+                    {% for artist in artists5 %}
+                    <td class="td"><img src={{ artist.images.1.url }} alt={{ artist.name }} style="width:160px;height:160px;"></td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
+      </div>
+      <div class="tracks">
+        <h2 class="h2">Top 10 albums</h2>
+        <table class="table">
+            {% for albums5 in albums %}
+                <tr>
+                    {% for album in albums5 %}
+                    <td>{{ album.name }}</td>
+                    {% endfor %}
+                </tr>
+                <tr>
+                    {% for album in albums5 %}
+                    <td class="td"><img src={{ album.album.images.1.url }} alt={{ album.name }} style="width:160px;height:160px;"></td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
+      </div>
+  </body>
+</html>

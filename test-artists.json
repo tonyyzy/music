@@ -1,0 +1,370 @@
+{
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP"
+        },
+        "followers": {
+          "href": null,
+          "total": 35466
+        },
+        "genres": [
+          "chinese hip hop",
+          "chinese indie",
+          "taiwan hip hop",
+          "taiwan pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5Zn94mKQQYVZUvhiIXeXdP",
+        "id": "5Zn94mKQQYVZUvhiIXeXdP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27398cf08eb7be3f3faaed30909",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0298cf08eb7be3f3faaed30909",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485198cf08eb7be3f3faaed30909",
+            "width": 64
+          }
+        ],
+        "name": "Leo王",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:5Zn94mKQQYVZUvhiIXeXdP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        },
+        "followers": {
+          "href": null,
+          "total": 129547
+        },
+        "genres": [
+          "taiwan indie"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+        "id": "7BqRcZsHYYQeqMAOp7e532",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/9b400be464ea8a17ba30c854eb187e5b85310507",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/a4bcd494d039cf12835bfd2a17f89d2e04a59869",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/42f121da11b81c15f64acead9c76ac45c8a202fa",
+            "width": 160
+          }
+        ],
+        "name": "Sunset Rollercoaster",
+        "popularity": 55,
+        "type": "artist",
+        "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        "followers": {
+          "href": null,
+          "total": 67391
+        },
+        "genres": [
+          "alternative r&b",
+          "indie soul"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4GoD5FJCgC0lbzde7ly44M",
+        "id": "4GoD5FJCgC0lbzde7ly44M",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/75f89bf884ee00ff9a9147beae37f7be493bce0f",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/7e154f3d08c6777897af5430e91cf7f04aa67df9",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/781f60b2a60031737ebe178ef5c7475a0e8fc919",
+            "width": 160
+          }
+        ],
+        "name": "Biig Piig",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:4GoD5FJCgC0lbzde7ly44M"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        "followers": {
+          "href": null,
+          "total": 49564
+        },
+        "genres": [
+          "la pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6uIst176jhzooPMetg2rtH",
+        "id": "6uIst176jhzooPMetg2rtH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a0d1c4ae010c116b49782e54ce7d31698602bb37",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/93afe00a1460157bfb84700025e6bd4220d8f985",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/33c4ab13e154da46855880a003d8144ca0f3e544",
+            "width": 160
+          }
+        ],
+        "name": "Louis Cole",
+        "popularity": 46,
+        "type": "artist",
+        "uri": "spotify:artist:6uIst176jhzooPMetg2rtH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        "followers": {
+          "href": null,
+          "total": 19086
+        },
+        "genres": [
+          "indie jazz",
+          "indie soul",
+          "neo r&b",
+          "uk contemporary jazz"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5mUcc8OOP4RuzrupeGYwW5",
+        "id": "5mUcc8OOP4RuzrupeGYwW5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/44476b2fb15cdf8539ae87d675118ee619ca3a07",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/654bbc8df648a6f4c3c5e9c187ede6a574ab1a7c",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/04ef33b828b78b2ade4c8becbdc1098ac0b8dd84",
+            "width": 160
+          }
+        ],
+        "name": "Joe Armon-Jones",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:5mUcc8OOP4RuzrupeGYwW5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        "followers": {
+          "href": null,
+          "total": 202470
+        },
+        "genres": [
+          "art pop",
+          "electropop",
+          "escape room",
+          "experimental house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2RqrWplViWHSGLzlhmDcbt",
+        "id": "2RqrWplViWHSGLzlhmDcbt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/3ae43b32e247aa666b29971a42d892f41a7cf072",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/1298504575a2fc051a003876161a3bab294c2c70",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/43adebe4865001434cbcc2ac3ce1624bddec5e4d",
+            "width": 160
+          }
+        ],
+        "name": "Yaeji",
+        "popularity": 58,
+        "type": "artist",
+        "uri": "spotify:artist:2RqrWplViWHSGLzlhmDcbt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        "followers": {
+          "href": null,
+          "total": 250521
+        },
+        "genres": [
+          "instrumental rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4vGrte8FDu062Ntj0RsPiZ",
+        "id": "4vGrte8FDu062Ntj0RsPiZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/98f9774a35bb153dcf5d077adab01abc5f9d8632",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/98d582416556925035dcf53fd8f41d24f3be8458",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969",
+            "width": 160
+          }
+        ],
+        "name": "Polyphia",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:4vGrte8FDu062Ntj0RsPiZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT"
+        },
+        "followers": {
+          "href": null,
+          "total": 2125
+        },
+        "genres": [
+          "experimental hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4bTUUfUPhp9CENuMnDoiyT",
+        "id": "4bTUUfUPhp9CENuMnDoiyT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/4ff5a786f8bee7897179f62cc7701b6c4a594bde",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/2eeec72258faff0fb3b3e759bf37c4ccf28e58e9",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/6d7fa55434ac245fb27f77169b29187064cd574d",
+            "width": 160
+          }
+        ],
+        "name": "Wilma Vritra",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:4bTUUfUPhp9CENuMnDoiyT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7yCdWDEm9XhixEPUKPnB75"
+        },
+        "followers": {
+          "href": null,
+          "total": 636
+        },
+        "genres": [
+          "manchester hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7yCdWDEm9XhixEPUKPnB75",
+        "id": "7yCdWDEm9XhixEPUKPnB75",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/8a97eb87039c3aa61a2a170d664a9eaa097c28a5",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/b5323e61b7041db7b3aa2b606b91d24f7c9ce634",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/7d2e3d9fe2690c23024cae025604dca89793c0a1",
+            "width": 160
+          }
+        ],
+        "name": "Blind Mic",
+        "popularity": 20,
+        "type": "artist",
+        "uri": "spotify:artist:7yCdWDEm9XhixEPUKPnB75"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Uf71UfGB3UG36VNqS33oP"
+        },
+        "followers": {
+          "href": null,
+          "total": 1547
+        },
+        "genres": [
+          "uk alternative hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5Uf71UfGB3UG36VNqS33oP",
+        "id": "5Uf71UfGB3UG36VNqS33oP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a396695fb5143b195c429466af308c3730edb10b",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/f4570fd82e1a6d03d38e855feeca40962935d184",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/da9a763173fa06a673c98eae2672d5e14b44246d",
+            "width": 160
+          }
+        ],
+        "name": "Tariq Disu",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:5Uf71UfGB3UG36VNqS33oP"
+      }
+    ],
+    "total": 50,
+    "limit": 10,
+    "offset": 0,
+    "previous": null,
+    "href": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=0&time_range=short_term",
+    "next": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=10&time_range=short_term"
+  }
